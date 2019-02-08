@@ -51,7 +51,7 @@
 				</table>
 			</div>
 			<footer>
-				For source code, see: <a href="https://www.startutorial.com/articles/view/php-crud-tutorial-part-1">Star Tutorial</a>
+				
 			</footer>
 		</div> <!-- /container -->
 

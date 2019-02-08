@@ -41,7 +41,7 @@
 			$valid = false;
 		}
 		
-		// update data
+	
 		if ($valid) {
 			$pdo = Database::connect();
 			$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
